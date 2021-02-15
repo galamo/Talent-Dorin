@@ -1,0 +1,26 @@
+{
+  "name": "talent",
+  "version": "1.0.0",
+  "description": "## Linux Commands",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galamo/Talent-Dorin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galamo/Talent-Dorin/issues"
+  },
+  "homepage": "https://github.com/galamo/Talent-Dorin#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}

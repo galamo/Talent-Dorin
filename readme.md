@@ -9,7 +9,19 @@
 - cd .. <go back>
 - mkdir <FolderName>
 - touch <FileName.ext>
-- cat <FileName.ext> 
+- cat <FileName.ext>
+- mv <source> <target
+- cp <source> <target>
+- vim <fileToEdit.ext>
+- ctrl+r <history>
+- grep | pattern
+- rm <fileName>
+- rm -rf <folder>
+- tail -100  -f <fileName>
+- chmod / chown
+- kill 
+- curl ( curl get + Post HTTP request ) 
+ 
 echo "# Talent-Dorin" >> README.md
 git init
 git add README.md
