@@ -18,7 +18,13 @@ CMD when running a docker instance
 
 
 
-# ex
+# ex 1
 Create Docker file 
 Copy JS file into the docker
 run the JS file inside the docker with CMD command node FileName.js
+
+
+# ex 2
+Create Nodejs Express application
+Which will listen to PORT : 3500
+Expost entry point /GET /users will return ```json [ "gal","dorin" ] ```
