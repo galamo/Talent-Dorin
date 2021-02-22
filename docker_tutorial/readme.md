@@ -27,4 +27,14 @@ run the JS file inside the docker with CMD command node FileName.js
 # ex 2
 Create Nodejs Express application
 Which will listen to PORT : 3500
-Expost entry point /GET /users will return ```json [ "gal","dorin" ] ```
+Expose entry point /GET /users will return ```json [ "gal","dorin" ] ```
+
+# ex 3
+
+Dockerize Nodejs api 
+expose the following port -8000
+build & run
+run command : docker run -p PORT_EXTERNAL:PORT_INTERNAL api
+docker exec -it <container id> /bin/sh
+
+
