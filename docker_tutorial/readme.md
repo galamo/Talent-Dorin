@@ -38,3 +38,8 @@ run command : docker run -p PORT_EXTERNAL:PORT_INTERNAL api
 docker exec -it <container id> /bin/sh
 
 
+Missing:
+Docker run with .env
+docker run with docker-compose 
+running nodejs + mysql docker with docker compose 
+
